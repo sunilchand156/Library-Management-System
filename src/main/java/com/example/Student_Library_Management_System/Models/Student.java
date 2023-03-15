@@ -32,7 +32,7 @@ public class Student {
         Steps to find that variable
 
         1. Go the child class (In this case)
-        2. Out of all the attributes select the foreign key attribute that is helping you connect
+        2. Out of all the attributes select the foreign key attribute that is helping me to connect
         with parent class
         (Ref :  @OneToOne
                 @JoinColumn
